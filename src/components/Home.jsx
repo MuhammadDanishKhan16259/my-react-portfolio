@@ -15,7 +15,7 @@ const Home = () => {
           <p className="text-gray-500 py-4 max-w-md">
             I have 2 years of experience building and desgining software.
             Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS and GraphQL .
+            Javascript, React, Node JS and MongoDB .
           </p>
           <div>
             <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
